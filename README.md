@@ -44,6 +44,7 @@ I have attached the workflow of the task in the snowflake
 ![image](https://github.com/user-attachments/assets/117a4ac0-88b6-4518-81fd-43ff96e9b457)
 After that , run the deployment manually in the actions section of the repository.You get to use like this ,
 ![image](https://github.com/user-attachments/assets/3995959d-ff5f-4bd9-a13a-4f1f85ab7e87)
+<img width="224" alt="image" src="https://github.com/user-attachments/assets/0f2208dd-66eb-44d1-a966-92ea28c10f35" />
 
 
 
